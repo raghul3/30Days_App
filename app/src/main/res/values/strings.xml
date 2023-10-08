@@ -1,0 +1,100 @@
+<resources>
+
+    <string name="app_name">30 Days Fitness</string>
+
+    //days
+    <string name="day1">Day 1</string>
+    <string name="day2">Day 2</string>
+    <string name="day3">Day 3</string>
+    <string name="day4">Day 4</string>
+    <string name="day5">Day 5</string>
+    <string name="day6">Day 6</string>
+    <string name="day7">Day 7</string>
+    <string name="day8">Day 8</string>
+    <string name="day9">Day 9</string>
+    <string name="day10">Day 10</string>
+    <string name="day11">Day 11</string>
+    <string name="day12">Day 12</string>
+    <string name="day13">Day 13</string>
+    <string name="day14">Day 14</string>
+    <string name="day15">Day 15</string>
+    <string name="day16">Day 16</string>
+    <string name="day17">Day 17</string>
+    <string name="day18">Day 18</string>
+    <string name="day19">Day 19</string>
+    <string name="day20">Day 20</string>
+    <string name="day21">Day 21</string>
+    <string name="day22">Day 22</string>
+    <string name="day23">Day 23</string>
+    <string name="day24">Day 24</string>
+    <string name="day25">Day 25</string>
+    <string name="day26">Day 26</string>
+    <string name="day27">Day 27</string>
+    <string name="day28">Day 28</string>
+    <string name="day29">Day 29</string>
+    <string name="day30">Day 30</string>
+
+    //name of the exercise
+    <string name="name1">Deadlift</string>
+    <string name="name2">Weighted Pullup</string>
+    <string name="name3">Dumbbell Romanian Deadlift</string>
+    <string name="name4">Pallof Press Iso Hold</string>
+    <string name="name5">Incline Dumbbell Row</string>
+    <string name="name6">Chinup</string>
+    <string name="name7">Trap-Bar Deadlift</string>
+    <string name="name8">Alternating Dumbbell Row</string>
+    <string name="name9">Inverted Row</string>
+    <string name="name10">Snatch-Grip Rack Deadlift</string>
+    <string name="name11">Swiss Ball Leg Curl</string>
+    <string name="name12">Wide-Grip Pullup</string>
+    <string name="name13">Landmine One-Arm Row</string>
+    <string name="name14">Towel Cable Row</string>
+    <string name="name15">Rotational Inverted Row</string>
+    <string name="name16">Burpee</string>
+    <string name="name17">Pike-Up to Superman</string>
+    <string name="name18">Lying Lateral Raise</string>
+    <string name="name19">Hang Clean</string>
+    <string name="name20">Back Extension</string>
+    <string name="name21">Seated Cable Row</string>
+    <string name="name22">Bentover Reverse Flye</string>
+    <string name="name23">Aquaman</string>
+    <string name="name24">Superman</string>
+    <string name="name25">Suspension Trainer Chinup</string>
+    <string name="name26">Squat</string>
+    <string name="name27">Suspension Trainer Inverted Row</string>
+    <string name="name28">Swiss Ball Reverse Back Extension</string>
+    <string name="name29">Yates Row</string>
+    <string name="name30">Bentover Row to Neck</string>
+
+    //Description
+    <string name="exerc1">Stand with feet hip-width apart and bend your hips back. Your grip should be just outside of your knees. Keeping a flat black, extend your hips to stand up, and pull the bar up along your body until lock-out, as your hips drive through and your shoulders move back. </string>
+    <string name="exerc2">Attach a weighted belt to your waist, hold a dumbbell between your feet, or—if you can’t complete your reps with weight—use body weight alone. Hang from a pullup bar with your hands just outside shoulder width.</string>
+    <string name="exerc3">Grasp two dumbbells and hold them with feet set hip-width apart. Keeping your lower back in its natural arch, bend hips back, your torso forward, and lower yourself until you feel a stretch in your hamstrings. You may bend at the knees.</string>
+    <string name="exerc4">Attach a single-grip handle to a cable pulley and set it at about shoulder height. (You can also use a band.) Grasp the handle with one hand over the other and step away from the machine to put tension on the cable; turn to your left 90 degrees so your right side faces the machine.</string>
+    <string name="exerc5">Set an adjustable bench to a 30- to 45-degree incline and lie on it chest-down. Grasp a dumbbell in each hand and draw your shoulder blades back and together as you row the weights to your sides.</string>
+    <string name="exerc6">Hang from a chinup bar with hands shoulder-width apart using a supinated grip (so, palms facing you). From the bottom of the movement, pull yourself up until your chin is over the bar.</string>
+    <string name="exerc7">Use a trap bar and stand with feet at hip-width apart. Bend your hips back and grasp the handles. Keeping your lower back in its natural arch, drive through your heels to stand up straight and extend your hips and knees.</string>
+    <string name="exerc8">Bend forward at the hips as you do in the Romanian deadlift, and row one dumbbell to your side. Lower it and repeat on the other side.</string>
+    <string name="exerc9">Set a barbell in a power rack (or use a Smith machine) at about hip height. (About four rungs up should work). Lie underneath it and grab it with hands about shoulder-width apart with the bottom of your heels on floor. </string>
+    <string name="exerc10">Set up as you would to deadlift, only do so in a power rack, resting the bar on the safety rods at about two inches below your knees. Grasp the bar wide, hands about double shoulder width.</string>
+    <string name="exerc11">Lie on your back on the floor and rest your heels on a Swiss ball. Brace your abs, keeping your core in a plank position, and drive your heels into the ball to raise your hips off the floor. </string>
+    <string name="exerc12">Grab a pullup bar with an overhand grip, wider than outside shoulder width. Hang from the bar and then pull yourself up until your chin is over it.</string>
+    <string name="exerc13">Place the end of the bar into a corner. (Wrap towels around the end of the bar, or put padding the corner, to avoid damaging the wall and floor.) Facing away from the corner, hold the barbell at the opposite end, above where you load the weights, with your right hand.</string>
+    <string name="exerc14">Hook a towel to a cable pulley and stand in front of it. Set up to do a row, holding an end of the towel in each hand. </string>
+    <string name="exerc15">"You'll need a suspension trainer for this exercise. Hold the handles and lean back with arms extended so that your body is supported by the suspension trainer and only your feet are on the floor. Brace your core and hold your body in a straight line."</string>
+    <string name="exerc16">Stand with feet outside shoulder-width apart. Next, bend down into a squat position and place your hands on the floor. Now quickly thrust your legs behind, you so you end up at the top of a pushup position. </string>
+    <string name="exerc17">Get into pushup position with your toes on the ball. Bend your hips and roll the ball toward you so your torso becomes vertical. Roll back so your body is straight again and extend your spine, then roll the ball up your legs so your body forms a straight line with arms extended overhead but hands still on the floor.</string>
+    <string name="exerc18">Set an adjustable bench to a 30-degree incline and lie on it chest-down with a dumbbell in each hand. Squeeze your shoulder blades together and raise your arms out 90 degrees to your sides so your palms face down in the top position.</string>
+    <string name="exerc19">Start by holding the bar against your body with your hands at shoulder-width on the bar. Keeping your back in its natural curve, bend your hips and knees (as you would in a squat), lowering the bar to just above your knees.</string>
+    <string name="exerc20">Lock your legs into a back extension bench and allow your torso to bend forward so that your hips are bent almost 90 degrees. Extend your hips so that your body forms a straight line.</string>
+    <string name="exerc21">Attach a straight or lat-pulldown bar to the pulley of a seated row station. Sit on the bench (or floor) with your feet against the foot plate and knees slightly bent. </string>
+    <string name="exerc22">Set up as you did for the neutral-grip row, but with lighter dumbbells. Set a timer for three minutes. Raise your arms out to your sides 90 degrees, squeezing your shoulder blades together at the top for a second.</string>
+    <string name="exerc23">Set up as you did for the back extension and then raise your left arm and right leg off the floor. </string>
+    <string name="exerc24">Raise your hands and legs off the floor (and hold them straight) so that only your hips remain in contact with it.</string>
+    <string name="exerc25">Attach a suspension trainer to a sturdy object overhead. Set the handles less than shoulder-width apart and high enough so that when you hang from them your feet will be off the floor. Grasp the handles, with palms facing you, and hang. Now pull yourself up until your chin is over your hands. Begin to lower yourself, moving your elbows away from your body and rotating your palms to face forward.</string>
+    <string name="exerc26">Set up in a squat rack or cage. Grab the bar slightly wider than shoulder-width, basically wide and comfortable. Retract your shoulder blades and unrack the bar. Take one step back with each foot and point toes out at 30 degrees.</string>
+    <string name="exerc27">Lengthen the straps and hold the handles. Lean back with arms extended so that your body is supported by the trainer and only your feet are on the floor. Brace your core and hold your body in a straight line. </string>
+    <string name="exerc28">Lie facedown on the ball and walk your body forward so it supports your hips only, hands on the floor. Squeeze your glutes and raise your legs behind you until they’re level with your torso.</string>
+    <string name="exerc29">Hold the bar with an underhand grip at shoulder-width. Keeping your lower back in its natural arch, bend your hips back and lower your torso to about 60 degrees. </string>
+    <string name="exerc30">Grasp the bar overhand and bend forward so torso is parallel to the floor. Squeeze your shoulder blades together and row the weight to your neck. </string>
+</resources>
